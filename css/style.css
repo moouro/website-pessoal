@@ -374,7 +374,7 @@ main * {
   align-items: center;
   text-decoration: none;
   color: #fff;
-  font-size: 1.1em;
+  font-size: 0.9em;
   font-weight: bold;
   letter-spacing: 1px;
   /* esconder Layer */
@@ -458,6 +458,11 @@ body ::-webkit-scrollbar {
 @media (max-width: 650px) {
   body {
     padding: 80px 16px;
+  }
+
+  .menu-item {
+    width: 85px;
+    height: 55px;
   }
 
   .profile,
