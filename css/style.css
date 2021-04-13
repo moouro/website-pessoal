@@ -22,6 +22,8 @@ i:hover {
   color: #52a59f;
 }
 
+
+
 body {
   min-height: 100vh;
   font-size: 14px;
@@ -427,7 +429,7 @@ body ::-webkit-scrollbar {
   }
 
   .menu-item {
-    width: 95px;
+    width: 100px;
     height: 65px;
   }
 
@@ -461,7 +463,7 @@ body ::-webkit-scrollbar {
   }
 
   .menu-item {
-    width: 85px;
+    width: 95px;
     height: 55px;
   }
 
